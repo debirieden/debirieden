@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on basics of GitHub
+- 🌱 I’m currently learning Python
+- 💬 Ask me about my interests and hobbies
+  - Certified therapy team with my Bettina, my yellow labrador retriever
+  - Run 5K for fun
+  - Used to snowboard before covid, hoping to get out again soon
+  - Involved with my sons' track activities
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: I played the accordion in the Springfield Accordion Orchestra when I was younger
